@@ -21,6 +21,7 @@
 - recreate_anomaly.py
 - retrain_model.py
 - retrain_pipeline.sh
+- setup.sh <----setup of requirements for the added files
 
 ### Fixed
 - none
