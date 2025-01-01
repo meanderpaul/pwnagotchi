@@ -1,7 +1,5 @@
 # Pwnagotchi
-This is the main source for all forks:
-- RPiZeroW (32bit)
-- RPiZero2W, RPi3, RPi4, RPi5 (64bit)
+This is a fork off of Jayofelony's noai.
 
 **For installation docs check out the [wiki](https://github.com/jayofelony/pwnagotchi/wiki)!**
 
