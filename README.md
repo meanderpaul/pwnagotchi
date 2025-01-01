@@ -20,6 +20,13 @@ full and half WPA handshakes.
 
 ![ui](https://i.imgur.com/X68GXrn.png)
 
+2025 update:
+
+Re-introduced new AI componants to the device in an attempt to have it be more effective and effiencet with an install onto an RPI4, RPI5 with an AI hat while keeping it backwards compatible with the zero. I HAVE NOT TESTED THE IMG ON ANY DEVICES YET. AS I RUN THEM I WILL ADD CONFIRMATION ON DEVICES.
+
+
+2024:
+
 The "old" Pwnagotchi used to have AI to help it learn from its environment, but since then AI seemed to destabilize the Wi-Fi firmware. So I have chosen to remove the AI completely to give the Pwnagotchi more up-time and longer battery life when taking it on a walk.
 
 Multiple units within close physical proximity can "talk" to each other, advertising their presence to each other by broadcasting custom information elements using a parasite protocol I've built on top of the existing dot11 standard.
